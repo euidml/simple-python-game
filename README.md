@@ -15,21 +15,7 @@ a text-based narrative game with a 2D terminal board interface & unit tests for 
     - `Web Dev Assassin`: this character has its passive "employ's legend", which has a 50% chance of dealing critical damage.
     - `DB Guardian`: this character has its passive "security", which is able to dodge the enemy's damage by half in a 33% chance.
     - `Project sorcerer`: this character has its passive "agile", that gains twicethe  exp from normal monsters and has the highest critical damage
-
-## How to play
-#### After the player selects their name and class, the board will be shown up as below:
-![](./images/image1.png)
-#### While the screen is refreshed in real time, this is when the player chooses to move south and have a battle against the monster:
-![](./images/image2.png)
-### The player can choose two options:
-#### Either go directly to the Boss
-![](./images/image3.png)
-#### Either be automatically moved when they reach their max level
-![](./images/image4.png)
-
-
-
-
+ 
 ## File Structure
 
 ```
@@ -75,3 +61,19 @@ simple-python-game/
     ├── test_validate_move.py
     └── test_web_dev_assassin_attributes.py
 ```
+
+
+## How to play
+#### After the player selects their name and class, the board will be shown up as below:
+![](./images/image1.png)
+#### While the screen is refreshed in real time, this is when the player chooses to move south and have a battle against the monster:
+![](./images/image2.png)
+### The player can choose two options:
+#### Either go directly to the Boss
+![](./images/image3.png)
+#### Either be automatically moved when they reach their max level
+![](./images/image4.png)
+
+
+
+
