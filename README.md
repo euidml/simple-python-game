@@ -3,26 +3,26 @@ a text-based narrative game with a 2D terminal board interface & unit tests for 
 
 ## Intro 
 
-- My game is inspired from my CS journey. There are monsters that are named as coursed names and the boss, Exam Dragon.
+- My game is inspired by my CS journey. There are monsters that are named as course names and the boss, Exam Dragon.
 - Some monsters are so dangerous. i.e. DB or AI/ML could kill you right away!
-- every character is able to give its critical damage in 25% of chance
-- User has an only option to win this game, defeating the exam dragon. The exam dragon will copy character's passive skill as itself.
-- User has two option to get to the boss: directly going to boss room or getting level 3 killing normal monsters.
-- character will be able to flee only in fighting with normal monsters.
+- Every character is able to give its critical damage with a 25% chance
+- The user has only one option to win this game: defeating the exam dragon. The exam dragon will copy the character's passive skill as itself.
+- The user has two options to get to the boss: directly going to the boss's room or getting level 3 and killing normal monsters.
+- The character will be able to flee only when fighting normal monsters.
 
-- Player can select their character between 4 classes:
-    - `Python Soldier`: this character as decent level of ability for each
-    - `Web Dev Assassin`: this character has its passive "employ's legend", that has 50% of chance for critical damage.
-    - `DB Guardian`: this character has its passive "security", that is able to dodge enemy's damage in a half in 33% of chance.
-    - `Project sorcerer`: this character has its passive "agile", that gain twice exp from normal monsters and has the highest critical damage
+- Player can select their character from 4 classes:
+    - `Python Soldier`: this character has a decent level of ability for each
+    - `Web Dev Assassin`: this character has its passive "employ's legend", which has a 50% chance of dealing critical damage.
+    - `DB Guardian`: this character has its passive "security", which is able to dodge the enemy's damage by half in a 33% chance.
+    - `Project sorcerer`: this character has its passive "agile", that gains twicethe  exp from normal monsters and has the highest critical damage
 
 ## How to play
-#### After the player select their name and class, the board will be shown up as below:
+#### After the player selects their name and class, the board will be shown up as below:
 ![](./images/image1.png)
-#### when the player chooses to move to south and have a battle against the monster:
+#### when the player chooses to move south and have a battle against the monster:
 ![](./images/image2.png)
-### The player choose two option:
-#### Either go to directly to the Boss
+### The player can choose two options:
+#### Either go directly to the Boss
 ![](./images/image3.png)
 #### Either be automatically moved when they reach their max level
 ![](./images/image4.png)
