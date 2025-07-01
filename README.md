@@ -19,7 +19,7 @@ a text-based narrative game with a 2D terminal board interface & unit tests for 
 ## How to play
 #### After the player selects their name and class, the board will be shown up as below:
 ![](./images/image1.png)
-#### when the player chooses to move south and have a battle against the monster:
+#### while the screen is refreshed in real time this is when the player chooses to move south and have a battle against the monster:
 ![](./images/image2.png)
 ### The player can choose two options:
 #### Either go directly to the Boss
